@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="story_app">Story App</string>
+    <string name="input_name">Name</string>
+    <string name="input_email">Email</string>
+    <string name="input_password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="logout">Logout</string>
+    <string name="have_account">Have an account?</string>z
+    <string name="dont_have_account">Don\'t have an account?</string>
+
+    <string name="information">Information</string>
+    <string name="oke">OK</string>
+    <string name="login_success">Login Success</string>
+    <string name="login_failed">Login Failed</string>
+    <string name="register_success">Register Success! Login with your account</string>
+    <string name="register_failed">Register Failed</string>
+    <string name="upload_success">Upload Success</string>
+    <string name="upload_failed">Upload Failed</string>
+    <string name="logout_success">Logout Success</string>
+    <string name="greeting">Hi %1$s</string>
+    <string name="welcome">Welcome back, let\'s share a Story</string>
+    <string name="img_story">Image Story</string>
+    <string name="name">Name</string>
+    <string name="add_story">Add Story</string>
+
+    <string name="created_add">Created at %1$s</string>
+    <string name="story_not_available">Story Not Available</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="upload">Upload</string>
+    <string name="description">Description</string>
+    <string name="image_preview">Image Preview</string>
+    <string name="invalid_permission">Invalid Permission</string>
+    <string name="no_attach_file">No Attach File</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="switch_camera">Switch Camera</string>
+    <string name="continues">Continue</string>
+    <string name="invalid_email">Invalid Email</string>
+    <string name="invalid_password">Password less than 6 characters</string>
+    <string name="must_filled">Must be filled</string>
+    <string name="failed_capture_image">Failed capture Image</string>
+    <string name="failed_show_camera">Failed show Camera</string>
+
+</resources>
